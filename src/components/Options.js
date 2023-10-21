@@ -1,4 +1,4 @@
-import "./index";
+import "../index";
 
 function Options({ questions }) {
   return (

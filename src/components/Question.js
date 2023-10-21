@@ -1,5 +1,5 @@
 import Options from "./Options";
-import "./index";
+import "../index";
 
 function Question({ questions }) {
   return (
