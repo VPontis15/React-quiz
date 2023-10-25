@@ -11,6 +11,7 @@ import ProgressBar from "./ProgressBar";
 import FinishScreen from "./FinishScreen";
 import Footer from "./Footer";
 import Timer from "./Timer";
+import { useQuestions } from "../Contexts/useQuestions";
 
 const initialState = {
   questions: [],
